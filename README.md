@@ -75,8 +75,11 @@ For support, email samarthmovaliya1@gmail.com.
 
 
 
+https://github.com/SamarthMovaliya/news_app_flutter_Api/assets/121867874/06cbb8f3-56f3-46e6-bab5-a3678c75b819
 
-https://user-images.githubusercontent.com/121867874/236637446-1afc5f09-1075-4375-ac1c-d737eed1bb2e.mov
+
+
+
 
 
 
